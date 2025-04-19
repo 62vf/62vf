@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hello World! I'm Ayush Shrivas
 
-<!--
-**62vf/62vf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Web Developer | 🛡️ Ethical Hacker | 🐞 Bug Bounty Hunter
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm a passionate and curious developer who lives at the intersection of **technology, security, and creativity**. Whether it’s building modern web applications or diving deep into cybersecurity, I thrive on solving real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Skills & Specializations
+
+- 🌐 **Web Development:** HTML, CSS, JavaScript, Java  
+- 🧠 **Programming:** Python, C, C++  
+- ⚔️ **Cybersecurity:** Penetration Testing, Bug Bounty Hunting, Ethical Hacking  
+- 🛠️ Tools: Burp Suite, Nmap, Wireshark, Metasploit, OWASP ZAP  
+
+---
+
+### 🚀 What I Do
+
+- Build secure, responsive, and performance-driven web applications  
+- Hunt bugs and report vulnerabilities ethically to make the internet a safer place  
+- Constantly learn and explore the latest in **tech**, **code**, and **cybersecurity**  
+
+---
+
+### 📫 Let's Connect
+
+- 📧 Email: [ayushshrivas110@gmail.com]  
+- 🌐 Portfolio: [yourportfolio.com]  
+- 📸 Instagram: [@ayuuush08]  
+
+> _"Stay curious. Stay ethical. Break barriers—not rules."_ 💡
+
+Thanks for visiting! 🌟  
