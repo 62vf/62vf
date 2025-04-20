@@ -26,7 +26,7 @@ Welcome to my GitHub! I'm a passionate and curious developer who lives at the in
 ### 📫 Let's Connect
 
 - 📧 Email: [ayushshrivas110@gmail.com]  
-- 🌐 Portfolio: [yourportfolio.com]  
+- 🌐 Portfolio: [https://adorable-shortbread-d50261.netlify.app/]  
 - 📸 Instagram: [@ayuuush08]  
 
 > _"Stay curious. Stay ethical. Break barriers—not rules."_ 💡
