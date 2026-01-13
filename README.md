@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Ayush | Developer & Ethical Hacker 🕶️</h1>
+<h1 align="center">⚡ Shreyansh | Developer & Ethical Hacker 🕶️</h1>
 
 <p align="center">
   <em>"Code is my forge, creativity is my weapon."</em>
